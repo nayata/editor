@@ -1,0 +1,6 @@
+-lib heaps
+-lib hldx
+-hl example.hl
+-main PhysicsExample
+-D windowSize=960x600
+-D windowFixed=0

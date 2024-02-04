@@ -1,0 +1,83 @@
+
+texture.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+third
+  rotate: false
+  xy: 10, 10
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+half
+  rotate: false
+  xy: 90, 10
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+spike
+  rotate: false
+  xy: 170, 10
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 250, 10
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 304, 10
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+full
+  rotate: false
+  xy: 384, 10
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+top
+  rotate: false
+  xy: 10, 50
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+hero
+  rotate: false
+  xy: 90, 60
+  size: 120, 60
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+platform
+  rotate: false
+  xy: 230, 90
+  size: 120, 60
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 370, 90
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+door
+  rotate: false
+  xy: 10, 130
+  size: 60, 120
+  orig: 60, 120
+  offset: 0, 0
+  index: -1
